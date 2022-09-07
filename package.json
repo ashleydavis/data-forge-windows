@@ -1,0 +1,23 @@
+{
+  "name": "data-forge-windows",
+  "version": "1.0.0",
+  "description": "blah",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skwasha/data-forge-windows.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skwasha/data-forge-windows/issues"
+  },
+  "homepage": "https://github.com/skwasha/data-forge-windows#readme",
+  "dependencies": {
+    "data-forge": "^1.9.6",
+    "data-forge-fs": "^0.0.9"
+  }
+}
