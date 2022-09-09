@@ -18,6 +18,10 @@
   "homepage": "https://github.com/skwasha/data-forge-windows#readme",
   "dependencies": {
     "data-forge": "^1.9.6",
-    "data-forge-fs": "^0.0.9"
+    "data-forge-fs": "^0.0.9",
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
   }
 }
